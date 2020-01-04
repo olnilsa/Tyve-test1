@@ -1,4 +1,3 @@
 # Tyve-test1
-Mit første repo
-Jeg bor i #20, deraf navnet.
-Stedet er en lille landsby uden for Piteå i Nordsverige: Selsborg.
+Mit andet repoforsøg.
+Jeg lykkedes aldrig at komme igang for et par år siden.
